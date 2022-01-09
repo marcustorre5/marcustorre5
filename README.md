@@ -20,8 +20,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Rafa-CSS" height="30" width="80" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img align="center" alt="Rafa-CSS" height="30" width="80" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white">
-  <img align="center" alt="Rafa-CSS" height="30" width="80" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
   <img align="center" alt="Rafa-CSS" height="30" width="80" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img align="center" alt="Rafa-CSS" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/rkY5QA5c3VAAAAAM/gato-digitando.gif">
 </div>
 </div>
@@ -38,7 +38,7 @@
 
 <br>
 
-## Tools
+## 🔭Tools
 
 
 <div>
