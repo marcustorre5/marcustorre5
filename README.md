@@ -1,4 +1,4 @@
-### 👋 Hi There, visitor! I'm Marcus!
+### 👋 Hi There, I'm Marcus!
 
 - 🌱 I’m python developer, lover of new technologies, always willing to learn.
 - 💼 I have been working for 3 years with systems development, automated scripts, developing solutions for the most diverse situations.
