@@ -46,6 +46,12 @@
   
 <div>
 
+<div>
+    <h4> Some of my favorites database</h4>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank">
+  </div>
+
   
   
   
