@@ -1,8 +1,5 @@
 ### 👋 Hi There, I'm Marcus!
 
-- 🌱 I’m python developer, lover of new technologies, always willing to learn.
-- 💼 I have been working for 3 years with systems development, automated scripts, developing solutions for the most diverse situations.
-
 <div align="center">
   <a href="https://github.com/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcustorre5&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
