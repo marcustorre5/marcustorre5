@@ -46,10 +46,20 @@
   
 <div>
 
+<br>
+
 <div>
     <h4> Some of my favorites database</h4>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank">
+  </div>
+
+<br>
+
+ <div>
+    <h4> Some of my favorites library's and frameworks</h4>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
   </div>
 
   
