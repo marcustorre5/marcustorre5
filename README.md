@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42EB10&height=180&section=header&text=Leonardo%20Fernando%20Luzetti&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 ### 👋 Hi There, I'm Marcus!
 
  <br/> :computer: Developer back-end
