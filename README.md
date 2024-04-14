@@ -1,5 +1,8 @@
 ### 👋 Hi There, I'm Marcus!
 
+ <br/> :computer: developer back-end
+ <br/> :rocket:  I'm always looking for new challenges and opportunities that provide learning and growth in my career.
+
 <div align="center">
   <a href="https://github.com/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcustorre5&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
