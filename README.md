@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42EB10&height=180&section=header&text=Marcus%20Torres%20Luzetti&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42EB10&height=180&section=header&text=Marcus%20Torres%fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
  <br/> :computer: Developer back-end
   <br/> 👨‍💻 Currently working with technologies like Python, C# and JavaScript. 
