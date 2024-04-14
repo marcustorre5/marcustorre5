@@ -1,6 +1,6 @@
 ### 👋 Hi There, I'm Marcus!
 
- <br/> :computer: developer back-end
+ <br/> :computer: Developer back-end
   <br/> 👨‍💻 Currently working with technologies like Python, C# and JavaScript. 
  <br/> :rocket:  I'm always looking for new challenges and opportunities that provide learning and growth in my career.
 
