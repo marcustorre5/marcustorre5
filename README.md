@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42EB10&height=180&section=header&text=Marcus%20Torres%20&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
  <br/> :computer: Developer back-end
-  <br/> 👨‍💻 Currently working with technologies like Python, C# and JavaScript. 
+  <br/> 👨‍💻 Currently working with technologies like Python, C# , java and JavaScript. 
  <br/> :rocket:  I'm always looking for new challenges and opportunities that provide learning and growth in my career.
 
 <div align="center">
