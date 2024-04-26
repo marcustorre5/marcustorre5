@@ -67,7 +67,6 @@
 
  <div>
     <h4> Some of my favorites library's and frameworks</h4>
-    <img src="https://https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank">
   </div>
 
